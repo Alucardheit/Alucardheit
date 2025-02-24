@@ -27,7 +27,7 @@
 
 
 ## Language Stats
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Alucardheit&layout=compact">](https://github-readme-stats.vercel.app/api?username=Alucardheit&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Alucardheit&layout=compact">(https://github-readme-stats.vercel.app/api?username=Alucardheit&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
 
 ![Alucardheit's github stats](https://github-readme-stats.vercel.app/api?username=Alucardheit&show_icons=true&hide=[%22issues%22])
  
