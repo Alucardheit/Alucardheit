@@ -30,8 +30,6 @@
 <img src = "https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Alucardheit&layout=compact">
 
 ![Alucardheit's github stats](https://github-readme-stats.vercel.app/api?username=Alucardheit&show_icons=true&hide=[%22issues%22])
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alucardheit&layout=pie)](https://github.com/Alucardheit/github-readme-stats)
  
  -------
 Credits: [MarikIshtar007](https://github.com/MarikIshtar007)
