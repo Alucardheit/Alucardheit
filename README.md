@@ -4,12 +4,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Vicente+Ipinza;++;Self-taught+Front-End+Developer,;Computer+Engineer+Student,;Computer+Science+postgraduate+student,;Active+Learner/Researcher,;Love+to+learn+new+stuff"></a>
 </p>
 
-## :computer: Technologies I Love
+## :computer: Technologies and Jobs I Love
 * Python
 * C
 * Machine Learning
 * Data Science
-* Frontend and Backend Web Development
+* IA Engineer
+* Backend Developer
 
 ## Programming Languages and Tech
 ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
